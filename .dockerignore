@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.editorconfig
+.git/
+build/
+coverage/
+docker
+# dist/
+README.md
