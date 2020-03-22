@@ -31,8 +31,7 @@
     "pg": "^7.18.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.4",
-    "typeorm": "^0.2.22",
-    "uuid": "^7.0.0"
+    "typeorm": "^0.2.22"
   },
   "devDependencies": {
     "@nestjs/cli": "^6.13.2",
